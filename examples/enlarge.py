@@ -1,3 +1,4 @@
+from ..point import Point
 point1 = Point((1, 1))
 point2 = Point((1, 3))
 point3 = Point((4, 2))

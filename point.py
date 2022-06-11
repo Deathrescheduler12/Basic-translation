@@ -1,7 +1,5 @@
 import math
-import matplotlib.pyplot as plt
 import numpy as np
-fig = plt.figure()
 class Point:
     def __init__(self, coordinates):
         self.coordinates = coordinates
